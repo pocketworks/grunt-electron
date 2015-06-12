@@ -31,7 +31,7 @@
     "apps"
   ],
   "dependencies": {
-    "electron-packager": "git://github.com/Rameshv/electron-packager#reshacker"
+    "electron-packager": "git://github.com/Rameshv/electron-packager#versionedit"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
